@@ -1,7 +1,7 @@
-# Implementação de modelos IA, e tópicos avançados de estudos.
+# Implementação de modelos IA
 
 
-Esse repositório será para estudos e prática de implementação de modelos de Inteligência Artificial.
+Esse repositório será para estudos de tópicos avançados de modelos de Inteligência Artificial.
 
 Aqui será abordados assuntos de aprendizados Supervisonado e Não Supervisionado como por exemplo:
 
