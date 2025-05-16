@@ -1,50 +1,22 @@
-# Estudos Avançados em Inteligência Artificial
+# 🤖 Tópicos Avançados de Inteligência Artificial
 
-Este repositório é dedicado ao meu aprofundamento em Inteligência Artificial, com foco em Análise de Imagens, Visão Computacional, Aprendizagem Profunda e Metaheurísticas.
-
-## Objetivo
-
-Explorar conceitos e práticas avançadas de IA por meio de projetos práticos e implementação de algoritmos. A ideia é consolidar conhecimento através da experimentação com dados reais e desafios clássicos.
+Este repositório reúne meus estudos, anotações e implementações práticas em tópicos avançados de Inteligência Artificial. O conteúdo está organizado por áreas clássicas da IA, com foco em aprendizado supervisionado, redes neurais, metaheurísticas e muito mais.
 
 ---
 
-## Roteiro de Estudos
+## 📚 Estrutura do Repositório
 
-O repositório está dividido em **dois módulos** principais, refletindo dois estilos de aprendizado:
+```bash
+Topicos-Avancados-InteligenciaArtificial/
+├── Supervised_Learning/       → Algoritmos como KNN, Árvore de Decisão, SVM
+├── Unsupervised_Learning/     → Agrupamentos como K-Means, PCA
+├── Neural_Networks/           → Perceptron, Deep Learning (CNN, RNN)
+├── Metaheuristics/            → Algoritmos Genéticos, PSO, etc.
+├── datasets/                  → Conjuntos de dados utilizados nos notebooks
+├── utils/                     → Funções auxiliares e ferramentas genéricas
+├── requirements.txt           → Dependências do projeto
+└── README.md                  → Este arquivo :)
 
----
-
-### Módulo 1 — Projetos Práticos: Visão Computacional e Deep Learning
-
-Estudos baseados em projetos, voltados para a prática com imagens, redes neurais e dados reais.
-
-#### Tópicos:
-- Análise e pré-processamento de imagens
-- Visão Computacional com OpenCV
-- Redes Neurais Convolucionais (CNNs)
-- Classificação de imagens com TensorFlow/PyTorch
-
-#### Projetos:
-- `chat_com_rede_neural/`: protótipo de chatbot usando deep learning
-- `classificador_imagens_satelite/`: modelo para classificar imagens de satélite
-
----
-
-### Módulo 2 — Algoritmos de Otimização: Metaheurísticas
-
-Estudos voltados à resolução de problemas de otimização com técnicas bioinspiradas e estocásticas.
-
-#### Tópicos:
-- Algoritmos Genéticos
-- Simulated Annealing
-- Colônia de Formigas (ACO)
-- Enxame de Partículas (PSO)
-- Busca Tabu
-
-#### Problemas Abordados:
-- Problema do Caixeiro Viajante (TSP)
-- Clique Máxima em Grafos
-- Roteamento de Cabos em Usinas Eólicas
 
 
 
